@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  margin-top: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html{
+  background-color: rgb(36, 36, 36);
+  
+}
+
+.App{
+  border-style: dashed;
+  border-color:black;
+  border-radius: 4%;
+  border-width: 0.5mm;
+  width: 300px;
+  overflow: hidden;
+  position:relative;
+  margin: auto;
+  background-color: rgb(15, 15, 15);
+}
+
+
+.info{
+  text-align: center;
+}
+
+.info-img{
+  width: 100%;
+  height: 200px;
+  border-radius: 4%;
+}
+
+.info-text-list{
+  list-style: none;
+  padding:0cm ;
+}
+
+#name{
+  color: white;
+  font-size:5mm;
+}
+
+#profession{
+  color: goldenrod;
+  font-size:4mm;
+}
+
+#related{
+  color:gray;
+  font-size:3mm;
+}
+
+.btns{
+  padding-top: 10px;
+  position: relative;
+  display:flex;
+  align-items: center;
+  justify-content:center;
+  font-size: 4.8mm;
+  text-align: center;
+}
+
+
+#btn-email{
+  background-color: white;
+  border-style: none;
+  border-radius: 5%;
+  height:30px;
+  width: 40%;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+#btn-linkedin{
+  background-color: lightskyblue;
+  border-style: none;
+  border-radius: 5%;
+  height:30px;
+  width: 40%;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+a+a{
+  margin-left:10%;
+}
+
+a{
+  text-decoration: none;
+  
+}
+
+.interests{
+  color:white;
+  font-size: 3.2mm;
+  padding: 10px;
+}
+
+.about{
+  color:white;
+  font-size: 3.2mm;
+  padding: 10px;
+}
+
+.footer{
+  background-color: black;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  color: white;
+  height: 50px;
+}
+
+.fa-facebook{
+  color:rgb(70, 87, 240);
+}
+
+.fa-twitter{
+  color: rgb(26, 179, 230);
+}
+
+.fa-github{
+  color:white;
+}
+
+.fa-instagram{
+  color:purple
+}
