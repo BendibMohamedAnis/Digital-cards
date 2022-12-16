@@ -4,8 +4,9 @@ Version 1 of this project shows digital cards of people including picture , info
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/46926963/208200568-0703292a-a51c-42bb-9754-2e786e0c1dc3.png)
-
+<p align="center" width="100%">
+    <img width="33%" src="ttps://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/46926963/208200568-0703292a-a51c-42bb-9754-2e786e0c1dc3.png)">
+</p>
 
 ## Available Scripts
 
